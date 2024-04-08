@@ -1,7 +1,7 @@
 
 # Recipes
 
-HTML project to display an assortment of recipes.
+HTML project from The Odin Project to display an assortment of recipes.
 
 ## What I used
 
