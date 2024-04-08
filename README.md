@@ -7,6 +7,7 @@ HTML project to display an assortment of recipes.
 
 1. HTML
 2. GIT
+3. Vim 
 
 ## Key Points taken from project
 
